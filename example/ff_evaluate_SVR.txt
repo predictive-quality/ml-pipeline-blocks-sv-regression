@@ -1,0 +1,8 @@
+--model_name=example
+--input_path=./example/
+--output_path=./example/
+--filename_x=x_test.fth
+--filename_y=y_test.fth
+--stage=evaluate
+--y_col_name=Y1
+--metrics=MeanAbsoluteError,MeanSquaredError,LogCoshError
